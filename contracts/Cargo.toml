@@ -1,0 +1,7 @@
+[workspace]
+members = [
+    "programs/solpix"
+]
+
+[profile.release]
+overflow-checks = true 
